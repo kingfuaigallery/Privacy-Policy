@@ -1,7 +1,7 @@
 # Privacy Policy for AI Gallery
 AI Gallery is a gallery application for Android devices. This policy explains how we collect, use, and protect your data, including through the use of cookies, when you use our app.
 # Information we collect
-When you use our app, we may collect certain information from you, such as what you clicked on the screen. We may also use cookies to collect information about your use of our app, such as which pages you visit and which features you use.
+When you use our app, we may collect certain information from you, such as what you clicked within the app. We may also use cookies to collect information about your use of our app, such as which pages you visit and which features you use.
 # Cookies
 A cookie is a small text file that is stored on your device when you use our app. We may use both session cookies (which expire when you close your app) and persistent cookies (which stay on your device until they expire or are deleted) to collect information about your use of our app.
 # How we use your information
